@@ -634,7 +634,10 @@ body {
     .second-img-container {
         display: block;
     }
-    
+
+    .tech-text {
+        /* padding-bottom: 10rem; */
+    }
     .about-text p {
         margin-top: 2rem;
     }
